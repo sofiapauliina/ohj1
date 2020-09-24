@@ -9,6 +9,8 @@ using Jypeli.Widgets;
 /// Laitetaan Jypelin fysiikkasääntöjä (Jypeli-kirjasto vaatimuksena) hyödyntämällä pallerot pomppimaan. 
 /// Keskimmäistä palloa voi liikuttaa vasemmalle ja oikealle vasemmalla ja oikealla nuolinäppäimellä. 
 /// Tilassa on painovoima alaspäin. 
+/// Kielenä C#
+
 public class PallerotPomppii : PhysicsGame
 {
     public override void Begin()
