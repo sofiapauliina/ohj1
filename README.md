@@ -1,5 +1,4 @@
 # ohjluennot
-Ohjelmointikurssien tehtäviä ym. yliopistossa. Nämä ei sinua varmaan kiinnosta ellet ole Vesa. 
+Ohjelmointikurssin (ohj1) tehtäviä yliopistossa. 
 
 
-hei
